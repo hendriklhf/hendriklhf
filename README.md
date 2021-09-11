@@ -5,5 +5,5 @@
 </a>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Sterbehilfe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sterbehilfe&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="100%"/>
+  <img align="center" alt="Sterbehilfe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sterbehilfe&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide_title=true" width="100%"/>
 </a>
