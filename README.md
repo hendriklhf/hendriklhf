@@ -1,4 +1,4 @@
-<img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_large.png?v=1571606113" width="80" height="80" /><img src="https://avatars.githubusercontent.com/u/73221731?v=4" width="100" height="100" />
+<img src="https://cdn.7tv.app/emote/60af6af257a061bbeff50651/3x" width="80" height="80" /><img src="https://avatars.githubusercontent.com/u/73221731?v=4" width="100" height="100" />
 
 ![](https://vistr.dev/badge?repo=Sterbehilfe.Sterbehilfe)
 
